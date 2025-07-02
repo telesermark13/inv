@@ -1,0 +1,12 @@
+Array
+(
+    [name] => safasf2134
+    [sku] => sfdsgs421412
+    [description] => safdsgsd
+    [unit] => pcs
+    [quantity] => 50
+    [category] => Networking Equipment
+    [unit_price] => 500
+    [min_stock_level] => 10
+    [taxable] => on
+)

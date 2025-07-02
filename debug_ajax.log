@@ -1,0 +1,13 @@
+Array
+(
+    [csrf_token] => 4a172bcd1c1378e2920f4dd3c4218afd
+    [id] => 1
+    [name] => test
+    [sku] => test123
+    [description] => test
+    [quantity] => 25
+    [min_stock_level] => 10
+    [unit] => pcs
+    [unit_price] => 50
+    [taxable] => on
+)

@@ -1,0 +1,23 @@
+Array
+(
+    [csrf_token] => 2183cda64f2d69b76a1598b7b43ca132f87cc73d89edbbfddfaf8d678c626422
+    [supplier_id] => 4
+    [request_date] => 2025-06-07
+    [tax_rate] => 12
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item_id] => 263
+                    [name] => CMOS BATTERY
+                    [sku] => 
+                    [description] => CR232 3V CMOS BATTERY
+                    [unit] => pc
+                    [category] => Consumables
+                    [qty] => 16
+                    [price] => 35.00
+                )
+
+        )
+
+)
